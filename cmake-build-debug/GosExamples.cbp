@@ -84,6 +84,30 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/eldar/CLionProjects/GosExamples/Complex.cpp">
+			<Option target="GosExamples"/>
+		</Unit>
+		<Unit filename="/home/eldar/CLionProjects/GosExamples/Complex.hpp">
+			<Option target="GosExamples"/>
+		</Unit>
+		<Unit filename="/home/eldar/CLionProjects/GosExamples/Point.cpp">
+			<Option target="GosExamples"/>
+		</Unit>
+		<Unit filename="/home/eldar/CLionProjects/GosExamples/Point.hpp">
+			<Option target="GosExamples"/>
+		</Unit>
+		<Unit filename="/home/eldar/CLionProjects/GosExamples/Polynom.cpp">
+			<Option target="GosExamples"/>
+		</Unit>
+		<Unit filename="/home/eldar/CLionProjects/GosExamples/Polynom.hpp">
+			<Option target="GosExamples"/>
+		</Unit>
+		<Unit filename="/home/eldar/CLionProjects/GosExamples/Users.cpp">
+			<Option target="GosExamples"/>
+		</Unit>
+		<Unit filename="/home/eldar/CLionProjects/GosExamples/Users.hpp">
+			<Option target="GosExamples"/>
+		</Unit>
 		<Unit filename="/home/eldar/CLionProjects/GosExamples/main.cpp">
 			<Option target="GosExamples"/>
 		</Unit>
